@@ -1,5 +1,5 @@
 import '../data/database.dart';
-import '../data/repositories/clinic_repositories.dart';
+import '../data/repositories/repositories.dart';
 import '../domain/models/models.dart';
 import 'input_helper.dart';
 
